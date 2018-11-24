@@ -10,3 +10,7 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   return $("img[alt='baby-ninja']")
 }
+
+function divSelector(){
+  
+}
